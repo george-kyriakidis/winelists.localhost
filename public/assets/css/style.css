@@ -1,0 +1,52 @@
+header,
+#winelists-header {
+	background-color: #003049;
+}
+
+footer {
+	height: 50px;
+	background-color: #003049;
+}
+
+main {
+	height: 100vh;
+}
+
+#winelists-header {
+	height: 60px;
+}
+
+#winelists-section {
+	border-bottom: 3px solid #003049;
+	border-radius: 3px;
+}
+
+#winelists-body {
+	border-bottom: 2px solid rgb(228, 226, 226);
+}
+
+#winelists-body:last-child {
+	border-bottom: none;
+}
+
+#winelists-body .bi-arrow-right-circle-fill,
+.bi-pencil-square {
+	color: #003049;
+}
+
+#btn-custom-style {
+	width: 100%;
+	border-radius: 0;
+}
+
+#winery-logo {
+	max-width: 100px;
+}
+
+#wine-image {
+	max-width: 250px;
+}
+
+#main-wine-image {
+	max-width: 400px;
+}
